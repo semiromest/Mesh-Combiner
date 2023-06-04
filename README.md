@@ -9,7 +9,7 @@ Mesh Combiner,Unity'de birden fazla nesnenin meshlerini birleştirmek için kull
 
 -Birden çok nesnenin meshlerini optimize edilmiş bir mesh olarak birleştirme.
 
-Not : Aracı,Tools Sekmesi Altında Bulabilirsiniz
+Not : Aracı kullanmak için kodu projenize ekleyiniz.Aracı,Tools Sekmesi Altında Bulabilirsiniz
 
 Not 2 : Aracın arkaplan rengini beğenmezseniz,kodda ki renk kodunu değiştirebilirsiniz.
 
