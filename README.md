@@ -11,6 +11,10 @@ Mesh Combiner,Unity'de birden fazla nesnenin meshlerini birleştirmek için kull
 
 Not : Aracı,Tools Sekmesi Altında Bulabilirsiniz
 
+Not 2 : Aracın arkaplan rengini beğenmezseniz,kodda ki renk kodunu değiştirebilirsiniz.
+
+Not 3 : Bu aracı oyununuz bittikten sonra kullanmanızda yarar vardır.
+
 Örnek Resim:
 
 ![image](https://github.com/semiromest/Mesh-Combiner/assets/81243425/4639f0d2-fefb-4907-a988-35ec6e0f2c58)
